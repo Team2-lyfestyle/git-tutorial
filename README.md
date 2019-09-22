@@ -26,5 +26,3 @@
     After you complete work on your branch, go into to github and make a `Pull Request`. 
     In there, describe your changes and select people to review them.
     Once your changes are reviewed and approved, they will be merged into the `master` branch
-
-testing
