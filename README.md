@@ -17,6 +17,7 @@
 - `git reset --soft HEAD~1` undoes the last `git commit`
 - `git checkout <branchName>` switches branches
 - `git checkout -b <branchName>` creates branch
+- `git rebase <branchName>` merges branchName into your current branch. Be sure to `git pull` that branch before running this. There might be merge conflicts. Go to your editor and fix those conflicts manually then run `git rebase --continue`
 
 ### Good practices
 
