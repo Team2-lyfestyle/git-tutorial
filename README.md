@@ -1,5 +1,3 @@
-# git-tutorial
-
 # Simple Git Commands
 
 ## These are the steps for cloning a repository from github and modify it.
